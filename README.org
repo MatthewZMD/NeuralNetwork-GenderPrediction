@@ -9,9 +9,10 @@
     #+END_SRC
   - Backpropagation algorithm
     #+BEGIN_SRC text
-    Backpropagation is the central mechanism by which neural networks learn. It is the messenger telling the network whether or not the net made a mistake when it made a prediction.
+    Backpropagation is the central mechanism by which neural networks learn.
+    It is the messenger telling the network whether or not the net made a mistake when it made a prediction.
     #+END_SRC
   - Stochastic Gradient Descent
     #+BEGIN_SRC text
-    Stochastic gradient descent (often abbreviated SGD) is an iterative method for optimizing an objective function with suitable smoothness properties (e.g. differentiable or subdifferentiable). It is called stochastic because the method uses randomly selected (or shuffled) samples to evaluate the gradients, hence SGD can be regarded as a stochastic approximation of gradient descent optimization.
+    Stochastic gradient descent is an iterative method for optimizing an objective function with suitable smoothness properties.
     #+END_SRC
