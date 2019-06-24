@@ -1,0 +1,17 @@
+#+TITLE: Neural Network: Gender Prediction
+* What is it?
+  This is a simple Neural Network python demo that predicts gender given weight (lb) and height (in) of the person.
+* What does it use?
+  - Python 3
+  - NumPy
+    #+BEGIN_SRC text
+    NumPy is the fundamental package for scientific computing with Python.
+    #+END_SRC
+  - Backpropagation algorithm
+    #+BEGIN_SRC text
+    Backpropagation is the central mechanism by which neural networks learn. It is the messenger telling the network whether or not the net made a mistake when it made a prediction.
+    #+END_SRC
+  - Stochastic Gradient Descent
+    #+BEGIN_SRC text
+    Stochastic gradient descent (often abbreviated SGD) is an iterative method for optimizing an objective function with suitable smoothness properties (e.g. differentiable or subdifferentiable). It is called stochastic because the method uses randomly selected (or shuffled) samples to evaluate the gradients, hence SGD can be regarded as a stochastic approximation of gradient descent optimization.
+    #+END_SRC
